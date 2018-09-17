@@ -1,0 +1,26 @@
+_repo: Vor-Sonnenaufgang-Soziales-Drama_52218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hauptmann, Gerhart
+    alias: Hauptmann, Gerhart Johann Robert
+    birthdate: 1862
+    deathdate: 1946
+    gutenberg_agent_id: '3226'
+    url: http://www.gutenberg.org/2009/agents/3226
+    wikipedia: http://en.wikipedia.org/wiki/Gerhart_Hauptmann
+description: ''
+gutenberg_issued: '2016-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52218'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German drama'
+- !lcc 'PT'
+- GITenberg
+title: 'Vor Sonnenaufgang: Soziales Drama'
+url: http://www.gutenberg.org/ebooks/52218
