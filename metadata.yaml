@@ -1,5 +1,8 @@
 _repo: Vor-Sonnenaufgang-Soziales-Drama_52218
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52218-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Hauptmann, Gerhart
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3226
     wikipedia: http://en.wikipedia.org/wiki/Gerhart_Hauptmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52218#Vor-Sonnenaufgang-Soziales-Drama
 gutenberg_issued: '2016-06-02'
 gutenberg_type: Text
 identifiers:
